@@ -1,0 +1,14 @@
+{
+    "name": "larakit/sf-dropzone",
+    "description": "[Larakit] [staticfiles] sf-dropzone",
+    "version": "2.0.0",
+    "license": "MIT",
+    "require":{
+        "larakit/lk-staticfiles":"*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
